@@ -1,2 +1,3 @@
-# eurneffydk-tieraid-app.github.io-
-EURneffyDK @ tieraid
+# EURneffyDK @ tieraid
+
+Do not edit anything on this page, it is automatically cloned from tieraid main app
